@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @KunalTUM
-- 👀 I’m interested in Neuroimaging and deep learning.
-- 🌱 I’m currently learning Convolutional Neural Networks.
-- 💞️ I’m looking to collaborate on CNNs for medical imaging.
+- 👋 Hi, I’m Kunal Aggarwal. I am currently pursuing Master's in Neuroengineering at TU Munich.
+- 👀 I’m interested in Low Field MRI simulations and the application of ML/DL methods for Neuroimaging.
 - 📫 Reach me on kunal.aggarwal@tum.de
 
 <!---
